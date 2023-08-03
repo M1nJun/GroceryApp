@@ -1,0 +1,5 @@
+com/mycompany/managerapp/App.class
+com/mycompany/managerapp/PrimaryController.class
+module-info.class
+com/mycompany/managerapp/InventoryItem.class
+com/mycompany/managerapp/ManagerAppDAO.class
